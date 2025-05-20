@@ -26,6 +26,7 @@ A Streamlit-based web application that lets you upload and analyze your WhatsApp
 ├── helper.py            # Stats, plots, emoji & word cloud generation
 ├── stop_hinglish.txt    # Stopwords used for word cloud
 ├── requirements.txt     # Python dependencies
+├── stop_hinglish.txt     # Hindi-English stop words
 ````
 
 ---
